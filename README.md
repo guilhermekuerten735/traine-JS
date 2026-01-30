@@ -1,2 +1,1 @@
-# traine-JS
-# traine-JS
+Patricando JS ES6+
