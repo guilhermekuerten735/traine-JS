@@ -1,1 +1,1 @@
-Patricando JS ES6+
+Revisando JS
